@@ -207,8 +207,7 @@ ra_webApp/
 ├── scripts/
 │   ├── copy-wasm.mjs         # postinstall hook
 │   └── smoke-runner.ts       # 38 query reali → parser+translator
-├── LICENSE                   # MIT
-└── PRD-RA-WebApp.md          # Product Requirements Document
+└── LICENSE                   # MIT
 ```
 
 ### Performance
