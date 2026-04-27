@@ -284,5 +284,5 @@ WebAssembly, ispirata alla loro sintassi e ai loro materiali didattici.
 ---
 
 <div align="center">
-<sub>Costruito per studenti di basi di dati, da uno studente di basi di dati. ✦</sub>
+<sub>Costruito per studenti di basi di dati ✦</sub>
 </div>
