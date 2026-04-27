@@ -51,3 +51,7 @@ yarn-error.log*
 
 # project-internal
 .smoke/
+
+# PRD privato
+PRD-RA-WebApp.md
+.PRD-RA-WebApp.md
